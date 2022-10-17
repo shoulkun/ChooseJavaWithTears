@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="G-ONE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/G-ONE2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
